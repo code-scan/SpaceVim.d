@@ -66,8 +66,8 @@ filetyps=[
 [[custom_plugins]]
 repo="ryanoasis/vim-devicons"
 
-#[[custom_plugins]]
-#repo="neovim/nvim-lspconfig"
+[[custom_plugins]]
+repo="neovim/nvim-lspconfig"
 
 [[custom_plugins]]
 repo="ray-x/lsp_signature.nvim"
