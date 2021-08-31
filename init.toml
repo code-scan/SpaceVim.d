@@ -59,6 +59,9 @@ auto_completion_tab_key_behavior = "smart"
 name = "tools#dash"
 
 [[layers]]
+name = "fzf"
+
+[[layers]]
 name="lsp"
 filetyps=[
   "gopls"
