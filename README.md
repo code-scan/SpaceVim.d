@@ -35,6 +35,7 @@ vim:
 | SPC f t         | 顯示、隱藏文件樹   |
 | SPC f f         | 打开fzf搜索窗口    |
 | SPC s r p       | rg全局搜索内容     |
+| SPC s j/J       | 全局搜索内容       |
 | Ctrl-Shift-Up   | 向上移动当前行     |
 | Ctrl-Shift-Down | 向下移动当前行     |
 | F3              | 隐藏tabbar         |
