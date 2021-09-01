@@ -37,6 +37,7 @@ vim:
 | SPC f o         | 打开当前文件所在文件夹位置| 
 | SPC s r p       | rg全局搜索内容     |
 | SPC s j/J       | 全局搜索内容       |
+| SPC l k/K       | 给结构体加/取消json |
 | Ctrl-Shift-Up   | 向上移动当前行     |
 | Ctrl-Shift-Down | 向下移动当前行     |
 | F3              | 隐藏tabbar         |
