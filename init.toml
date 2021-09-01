@@ -27,7 +27,7 @@
     filetree_direction = 'left'
     filemanager = 'vimfiler'
     enable_vimfiler_filetypeicon = true
-    #snippet_engine = "ultisnips"
+    snippet_engine = "ultisnips"
     default_indent = 4
     bootstrap_after  = "myspacevim#after"
 # Enable autocomplete layer
