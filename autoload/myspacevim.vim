@@ -14,5 +14,6 @@ local golang_setup = {
 
 require'lspconfig'.gopls.setup(golang_setup)
 EOF
+call iceberg#palette#dark#create()
 endfunction
 
