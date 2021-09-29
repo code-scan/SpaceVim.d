@@ -11,7 +11,7 @@
     # set spacevim theme. by default colorscheme layer is not loaded,
     # if you want to use more colorscheme, please load the colorscheme
     # layer
-    colorscheme = "iceberg"
+    colorscheme = "gruvbox"
     colorscheme_bg = "dark"
     # Disable guicolors in basic mode, many terminal do not support 24bit
     # true colors
@@ -30,19 +30,6 @@
     snippet_engine = "ultisnips"
     default_indent = 4
     bootstrap_after  = "myspacevim#after"
-    custom_color_palette = [
-        ["#161821", "#bbbdc7", 246, 235],
-        ["#bbbdc7", "#161821", 239, 246],
-        ["#bbbdc7", "#161821", 237, 246],
-        ["#161821", 241],
-        ["#161821", "#84a0c6", 235, 109],
-        ["#161821", "#b4be82", 235, 208],
-        ["#161821", "#818596", 235, 108],
-        ["#161821", "#e2a478", 235, 72],
-        ["#161821", "#0f1117", 235, 132],
-    ] 
-    colorscheme = "tender"
-
 # Enable autocomplete layer
 [[layers]]
 name = 'autocomplete'
@@ -87,12 +74,3 @@ repo="neovim/nvim-lspconfig"
 
 [[custom_plugins]]
 repo="ray-x/lsp_signature.nvim"
-
-[[custom_plugins]]
-repo="cocopon/iceberg.vim"
-
-[[custom_plugins]]
-repo="cocopon/pgmnt.vim"
-
-[[custom_plugins]]
-repo="jacoborus/tender.vim"
